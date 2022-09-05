@@ -18,6 +18,8 @@ The Nodaway County Historical Society is an active organization **dedicated to t
 or 
 # The Nodaway County Historical Society Museum and best route to the nearest airport:
 <hr>
+
+
 * Nearest airport to the Nodaway County Historical Society Museum is Kansas City (MCI).
 
 
