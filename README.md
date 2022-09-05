@@ -50,3 +50,10 @@ Nearest airport to the Nodaway County Historical Society Museum is Kansas City (
 18. Kansas City, Missouri
 ###### Source of the content: https://www.google.com/search?q=nodaway+county+historical+society+museum+to+kansas+city+MO+step+by+step+directions&rlz=1C1GCEA_enUS1019US1019&sxsrf=ALiCzsYRIYrh2e7S23Ek-zJkGonrdXiJBQ%3A1662413519913&ei=z2oWY-ScN7zFqtsP1fi5cA&ved=0ahUKEwikwMv6zP75AhW8omoFHVV8Dg4Q4dUDCA8&uact=5&oq=nodaway+county+historical+society+museum+to+kansas+city+MO+step+by+step+directions&gs_lcp=Cgdnd3Mtd2l6EAM6CggAEEcQ1gQQsAM6BggAEB4QFjoFCCEQoAE6BQghEKsCSgQIQRgASgQIRhgAUIsMWPaKAWDfjAFoB3ABeACAAY0BiAGALJIBBTE4LjM0mAEAoAEByAEFwAEB&sclient=gws-wiz
 
+#### Other locations around the Museum:
+
+- Nodaway County Courthouse
++ Happy Garden
+* GRILL SERGEANT BARBEQUE
+
+* Subway
