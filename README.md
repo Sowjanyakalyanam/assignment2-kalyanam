@@ -31,7 +31,7 @@ Nearest airport to the Nodaway County Historical Society Museum is Kansas City (
 > 1.  It will take approximately 2 hours to travel from Museum to MCI airport.
 > 2.  Total distance is 95.5 mi via route US-71 S and 126.4 mi via I-35 S.
 
-2. Step by step Directions:
+2. Step by step Directions:  
 
 > 1. Nodaway County Historical Society Museum
 > 2. Head south on N Walnut St toward W 1st St 121 ft
