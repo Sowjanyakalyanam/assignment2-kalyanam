@@ -5,3 +5,5 @@ at Deloitte, where in I've handled two leadig clients. I also had worked with TC
 <p> I am from Vijayawada and settled in Hyderabad. </p>
 
 ![Uploading Image](https://github.com/Sowjanyakalyanam/assignment2-kalyanam/blob/main/myimg.jpg)
+or
+![My Image](myimg.jpg)
