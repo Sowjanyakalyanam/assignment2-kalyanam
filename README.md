@@ -77,3 +77,18 @@ Nearest airport to the Nodaway County Historical Society Museum is Kansas City (
 |Kansas City  | Union Station Museum | 2 hours|
 |Delhi                | India Gate | 4 hours|
 |Mysore      |Mysore Palace | 3 hours |
+***
+# Pithy quotes
+> Failure will never overtake me if my determination to succeed is strong enough. *- Dr APJ Abdul Kalam.* 
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress. * Barak Obama. *
+***
+# Fencing 
+> How to print Hello World code using Java 
+> https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+```
+> class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+ ```
+}
