@@ -69,9 +69,9 @@ Nearest airport to the Nodaway County Historical Society Museum is Kansas City (
 <p> 
   Below is the table which shows the information about cities and best places to visit in that city
   </p>
- | City        | Location        | Time to spend
-| ------------- | -------------   | ------------------
-| California    | Disneyland Park | 5 hours 
-| Kansas City   | Union Station Museum | 2 hours
-| Delhi         | India Gate     | 4 hours
-| Mysore        | Mysore Palace  | 3 hours
+ City  | Best places to visit | Time to spend
+------------- | -------------   | ----------
+California  | Disneyland Park | 5 hours
+Kansas City  | Union Station Museum | 2 hours
+Delhi                | India Gate | 4 hours
+Mysore      |Mysore Palace | 3 hours 
