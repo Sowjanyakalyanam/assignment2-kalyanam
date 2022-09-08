@@ -65,7 +65,8 @@ Nearest airport to the Nodaway County Historical Society Museum is Kansas City (
 
 [Adding image](AboutMe.md)
 
-***** Best tourist spots to visit 
+***
+# Best tourist places to vist
 <p> 
   Below is the table which shows the information about cities and best places to visit in that city
   </p>
